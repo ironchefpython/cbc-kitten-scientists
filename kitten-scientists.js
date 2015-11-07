@@ -18,7 +18,7 @@ var game    = gamePage;
 
 var options = {
     debug:         false,
-    interval:      2000,
+    interval:      500,
     msgcolor:      '#aa50fe', // dark purple
     summarycolor:  '#009933', // light green
     activitycolor: '#E65C00', // orange
